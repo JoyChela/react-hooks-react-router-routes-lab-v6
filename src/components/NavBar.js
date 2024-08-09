@@ -7,6 +7,7 @@ function NavBar() {
       <NavLink to="/" end>Home</NavLink>
       <NavLink to="/directors">Directors</NavLink>
       <NavLink to="/actors">Actors</NavLink>
+      <NavLink to="/movie">Movie</NavLink>
     </nav>
   );
 }
